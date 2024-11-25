@@ -1,0 +1,47 @@
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap");
+.titulo{
+    text-align:center;
+    padding: 2rem 0;
+}
+
+.itens-lista{
+    display: flex;
+    justify-content: center;
+    margin: 2 rem 0;
+    padding: 2rem 0;
+}
+table{
+    width:90%;
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-align: center;
+    font-size: 1rem;
+    margin:54px;
+}
+table thead{
+    background-color: white;
+    color: black;
+}
+table thead th{
+    font-weight: bolder;
+}
+table tbody tr{
+    background-color: rgba(182, 182, 182, 0.462);
+    color: black;
+}
+
+thead{
+    width:70%;
+}
+
+.margin{
+    display: flex;
+    width: 100%;
+    padding: 10px;
+}
+.principal{
+    color:yellow;
+}
+.template{
+    height: 80%;
+}
